@@ -11,15 +11,18 @@ command to run in linux terminal
 chmod +x cPlusPlusTesting.sh
 
 ./cPlusPlusTesting.sh
+```
 
 or
 
+```
 chmod +x pythonTesting.py
 
 ./pythonTesting.py
-
+```
 command to run in windows command prompt
 
+```
 chmod +x test.bat
 
 test.bat
