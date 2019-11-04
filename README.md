@@ -6,7 +6,7 @@
 
 #### Steps to use
 
-command to run in linux 
+command to run in linux terminal
 
 chmod +x cPlusPlusTesting.sh
 
@@ -18,7 +18,7 @@ chmod +x pythonTesting.py
 
 ./pythonTesting.py
 
-command to run in linux command prompt
+command to run in windows command prompt
 
 chmod +x test.bat
 
